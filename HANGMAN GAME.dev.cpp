@@ -18,6 +18,11 @@ int main ()
 	{
 		
 		"india",
+	        "italy",
+	        "russia",
+	        "ukraine",
+	        "senegal",
+	        "niger",
 		"pakistan",
 		"nepal",
 		"morroco",
@@ -92,8 +97,8 @@ int main ()
 		{
 			cout << word << endl;
 			cout << "Yeah!!!!! You got it!";
-			cout << "CONGRATULATIONS";
-			cout << "YOU ARE FREE";
+			cout << "\nCONGRATULATIONS";
+			cout << "\nYOU ARE FREE";
 			break;
 		}
 	}
@@ -107,7 +112,7 @@ int main ()
         cout << " |       / \\" << endl;
         cout << " |" << endl;
         cout << "_|________" << endl;
-        cout << "NO MORE CHANCES! YOU ARE DEAD!";
+        cout << "NO MORE CHANCE! YOU ARE DEAD!";
 		cout << "\nThe word was : " << word << endl;
 		cout<<"\nWould you like to play again??? (Y - N) : ";
 		
