@@ -25,7 +25,7 @@ int main ()
 	        "niger",
 		"pakistan",
 		"nepal",
-		"morroco",
+		"morocco",
 		"malaysia",
 		"spain",
 		"egypt",
