@@ -53,13 +53,12 @@ int main ()
 		cout << "\n";
 	cout << "\n";
      
-	    cout << "  ________" << endl;
-        cout << " |        |" << endl;
-        cout << " |" << endl;
-        cout << " |" << endl;
-        cout << " |" << endl;
-        cout << " |" << endl;
-        cout << "_|________" << endl;
+        cout << "    __________" << endl;
+        cout << "   |        " << endl;
+        cout << "   |" << endl;
+        cout << "   |__________" << endl;
+        cout << "   |" << endl;
+        cout << "   |__________" << endl;
 	cout << "\n\nEach letter is represented by a star.";                        
 	cout << "\n\nYou have to type only one letter in one try";                  
 	cout << "\n\nYou have " << MAX_TRIES << " tries to try and guess the word correctly.";
